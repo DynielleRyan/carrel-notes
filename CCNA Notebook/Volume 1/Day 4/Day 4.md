@@ -1,4 +1,3 @@
-# Day 4
 
 Cisco CLI has 3 modes.
 
