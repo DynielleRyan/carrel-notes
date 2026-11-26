@@ -3,7 +3,7 @@
 - Protocol - Set of rules defining how data should be communicated between devices in a network.
 - OSI - Open Systems Interconnection
 - TCP/IP - Transmission Control Protocol/Internet Protocol
-
+h
 ## OSI model
 
 ![[OSI layers.png]]
