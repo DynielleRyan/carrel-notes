@@ -19,3 +19,12 @@ Factory-default - refers to the original state of the device as it is sent from 
 ![[Pasted image 20261127205121.webp]]
 
 ![[Pasted image 20261127205132.webp]]
+
+Configuring the enable Password
+- enable password
+- enable secret
+
+
+![[Pasted image 20261127205718.png]]
+
+ 
