@@ -20,13 +20,11 @@ Factory-default - refers to the original state of the device as it is sent from 
 
 ![[Pasted image 20261127205132.webp]]
 
-Configuring the enable Password
+**Configuring the enable Password**
 - enable password
 - enable secret
 
 
 ![[Pasted image 20261127205718.png]]
 
-![[Screenshot 20261127211639549.webp]]
-[[Acing the CCNA Exam  1 - Volume 1 Fundamentals and Protocols - Jeremy McDowell.pdf#page=153|p. 153]] 
-![[Pasted image 20261127211643.png]]
+ 

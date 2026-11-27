@@ -1,6 +1,5 @@
 
-Cisco CLI has 3 modes.
-
+**Cisco CLI has 3 modes.**
 - User Exec Mode  indicated by a > 
 - Privileged Exec Mode Indicated by a # (en/enable)
 - Global Configuration mode Indicated by a (config) # (configure terminal/ con f)
@@ -20,11 +19,14 @@ Factory-default - refers to the original state of the device as it is sent from 
 
 ![[Pasted image 20261127205132.webp]]
 
-Configuring the enable Password
+**Configuring the enable Password**
 - enable password
-- enable secret
-
-
+- enable secret (more secure, stores password as a ha
+![[Pasted image 20261127214937.webp]]
+[[Acing the CCNA Exam  1 - Volume 1 Fundamentals and Protocols - Jeremy McDowell.pdf#page=133|p. 133]] 
+![[Pasted image 20261127215539.webp]]
+[[Acing the CCNA Exam  1 - Volume 1 Fundamentals and Protocols - Jeremy McDowell.pdf#page=131|p. 131]] 
+![[Pasted image 20261127214857.webp]]
 ![[Pasted image 20261127205718.png]]
 
  
